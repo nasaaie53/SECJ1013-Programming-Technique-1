@@ -14,3 +14,5 @@ Functions and arrays are used to organize programs.
 The subject focuses on problem solving and logical thinking.
 Debugging helps find and fix errors in programs.
 Overall, it builds a strong foundation for advanced programming.
+
+## Reflection
